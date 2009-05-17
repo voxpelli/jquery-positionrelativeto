@@ -1,0 +1,3 @@
+Small jQuery helper scripts that aids in position one DOM-element relative to another DOM-element.
+
+Useful when creating dropdowns, tooltips and similar.
